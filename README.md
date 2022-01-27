@@ -35,7 +35,7 @@
 </a>
 <a href="https://github.com/medaymenTN/ts-react-redux-hooks-boilerplate">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-react-redux-hooks-boilerplate-clone&show_owner=true&theme=react"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-react-redux-hooks-boilerplate&show_owner=true&theme=react"
   />
 </a>
 <a href="https://github.com/medaymenTN/NodeJsGraphQLDockerApp">
