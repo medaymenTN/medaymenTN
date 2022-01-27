@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey 👋 Welcome to my favourite playground </h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey 👋 Welcome to my favourite playground</h1>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=medaymenTN" alt="medaymenTN"/>       
@@ -22,42 +22,24 @@
 
 ### 💥 Latest React and Node JS boilerplates/ Starter Kit
 <br>
-<br />
+
+<p align="center">
 <a href="https://github.com/medaymenTN/React-Node-Docker-App">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=React-Node-Docker-App&show_owner=true&theme=react"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=React-Node-Docker-App&show_owner=true&theme=react" />
+</a><a href="https://github.com/medaymenTN/NestJS-Microservices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NestJS-Microservices&show_owner=true&theme=aura_dark" />
+</a><a href="https://github.com/medaymenTN/ts-react-redux-hooks-boilerplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-react-redux-hooks-boilerplate&show_owner=true&theme=react" />
+</a><a href="https://github.com/medaymenTN/ts-react-native-expo-boilerplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-react-native-expo-boilerplate&show_owner=true&theme=react" />
+</a><a href="https://github.com/medaymenTN/ts-graphql-boilerplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-graphql-boilerplate&show_owner=true&theme=synthwave"/>
+</a><a href="https://github.com/medaymenTN/ts-express-jwt-rest-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-express-jwt-rest-api&show_owner=true&theme=blue-green"/>
+</a><a href="https://github.com/medaymenTN/NodeJsGraphQLDockerApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NodeJsGraphQLDockerApp&show_owner=true&theme=synthwave" />
 </a>
-<a href="https://github.com/medaymenTN/NestJS-Microservices">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NestJS-Microservices&show_owner=true&theme=nestjs"
-  />
-</a>
-<a href="https://github.com/medaymenTN/ts-react-redux-hooks-boilerplate">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-react-redux-hooks-boilerplate&show_owner=true&theme=react"
-  />
-</a>
-<a href="https://github.com/medaymenTN/NodeJsGraphQLDockerApp">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NodeJsGraphQLDockerApp&show_owner=true&theme=graphql"
-  />
-</a>
-<a href="https://github.com/medaymenTN/ts-react-native-expo-boilerplate">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-react-native-expo-boilerplate&show_owner=true&theme=react-native"
-  />
-</a>
-<a href="https://github.com/medaymenTN/ts-graphql-boilerplate">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-graphql-boilerplate&show_owner=true&theme=react"
-  />
-</a>
-<a href="https://github.com/medaymenTN/ts-express-jwt-rest-api">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-express-jwt-rest-api&show_owner=true&theme=react"
-  />
-</a>
+</p>
 
 
 ### 📬 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
