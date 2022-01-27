@@ -37,18 +37,18 @@
 ### 💥 Latest Node JS boilerplates/ Starter Kit
 <p align="center">
  <a href="https://github.com/medaymenTN/ts-graphql-boilerplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-graphql-boilerplate&show_owner=true&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-graphql-boilerplate&show_owner=true&theme=vue-dark"/>
 </a>
 
  <a href="https://github.com/medaymenTN/ts-express-jwt-rest-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-express-jwt-rest-api&show_owner=true&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-express-jwt-rest-api&show_owner=true&theme=vue-dark"/>
 </a>
      <a href="https://github.com/medaymenTN/NodeJsGraphQLDockerApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NodeJsGraphQLDockerApp&show_owner=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NodeJsGraphQLDockerApp&show_owner=true&theme=vue-dark" />
 </a>
     </a>
  <a href="https://github.com/medaymenTN/NestJS-Microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NestJS-Microservices&show_owner=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NestJS-Microservices&show_owner=true&theme=vue-dark" />
 </a>
 </p>
 <br>
