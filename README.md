@@ -34,9 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-react-native-expo-boilerplate&show_owner=true&theme=react" />
 </a><a href="https://github.com/medaymenTN/ts-graphql-boilerplate">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-graphql-boilerplate&show_owner=true&theme=synthwave"/>
-</a><a href="https://github.com/medaymenTN/ts-express-jwt-rest-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=ts-express-jwt-rest-api&show_owner=true&theme=blue-green"/>
-</a><a href="https://github.com/medaymenTN/NodeJsGraphQLDockerApp">
+</a>
+    <a href="https://github.com/medaymenTN/NodeJsGraphQLDockerApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NodeJsGraphQLDockerApp&show_owner=true&theme=synthwave" />
 </a>
 </p>
