@@ -56,7 +56,6 @@
 ### 📬 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/medaymenTN/)](https://github.com/medaymenTN) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://tn.linkedin.com/in/mohamed-aymen-ourabi-7176b912a)](https://tn.linkedin.com/in/mohamed-aymen-ourabi-7176b912a)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/6073064/wassiim-ben-hssen)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedaymenourabi4@gmail.com)](mailto:mohamedaymenourabi4@gmail.com)
 
 
