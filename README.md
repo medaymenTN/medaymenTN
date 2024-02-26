@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NestJS-Microservices&show_owner=true&theme=vue-dark" />
 </a>
  <a href="https://github.com/medaymenTN/Nest-Prisma-testContainers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=NestJS-TestContainers-Prisma&show_owner=true&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=medaymenTN&repo=Nest-Prisma-testContainers&show_owner=true&theme=vue-dark" />
 </a>
 </p>
 <br>
